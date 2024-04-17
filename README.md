@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently enrolled as a cybersecurity & Ops student **a boot camp**
+ 🔭 I’m currently enrolled as a cybersecurity & Ops student **at a boot camp**
  🌱 I’m currently learning **sql, Python, AWS**
 
 💬 Ask me about **python, bash, or sql... or anything [here](https://github.com/vikram6574?tab=repositories)**
